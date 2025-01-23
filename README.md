@@ -1,1 +1,1 @@
-# amar-bank
+# mq-bank
